@@ -1,3 +1,8 @@
+a {
+    text-decoration: None;
+    color: #000;
+}
+
 .top-nav {
 	float:right;
 	margin-right: 25px;
@@ -11,6 +16,34 @@
 	vertical-align: bottom;
 	margin: 5px 5px 0 0;
 	font-size: 13px;
+}
+ .search-box {
+     width: 100%;
+     margin-top: 100px;
+     position: absolute;
+ }
+
+ .search-box img {
+     display: block;
+     padding-top: 100px;
+     margin: 0 auto;
+ }
+
+.search-box input {
+     width: 500px;
+     height: 30px;
+     display: block;
+     margin: auto;
+}
+
+.buttons {
+     text-align: center;     
+}
+
+.buttons button {
+    margin: 20px 5px;
+    line-height: 30px;
+    
 }
 
 .footer {
