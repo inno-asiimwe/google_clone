@@ -62,7 +62,7 @@ a {
 .left-footer li {
     display: inline-block;
     list-style: none;
-    
+    padding-left: 5px;
 }
 
 .right-footer {
@@ -74,6 +74,8 @@ a {
 .right-footer li {
     display: inline-block;
     list-style: none;
+    padding-left: 5px;
+}
 
 
 
